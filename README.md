@@ -3,10 +3,12 @@ Chef's Rec is your ultimate culinary companion, powered by cutting-edge AI. One 
 
 Title: "Chef's Rec: Your AI Culinary Companion"
 
-Description:
+Website link: https://studio.openweaver.com/apps/kajjamsanjana/chefsrec/home
 
 Overview:
 Chef's Rec is an innovative web application that harnesses the power of Artificial Intelligence (AI) to revolutionize your cooking experience. Whether you're staring at a sparse pantry or craving something specific, Chef's Rec is here to inspire your culinary journey. It's like having a virtual chef at your fingertips, ready to whip up delightful recipes tailored to your preferences and available ingredients.
+
+Technologies used: GPT 3.5 (for prompt engineering), stable diffusion models(to visually represent recipes).
 
 Key Features:
 
